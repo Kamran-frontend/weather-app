@@ -27,7 +27,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Kamran-frontend/weather-app.git
 cd weather-app
 ```
 
