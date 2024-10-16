@@ -1,6 +1,6 @@
 # Weather App
 
-A responsive weather app built with Vue.js that provides current weather conditions and a 10-day forecast. Users can search for cities or ZIP codes, switch between Celsius and Fahrenheit, and view weather details in a visually appealing tile format.
+A responsive weather app built with Vue.js that provides current weather conditions. Users can search for cities or ZIP codes and view weather details in a visually appealing tile format.
 
 ## Features
 
