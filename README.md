@@ -99,7 +99,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenWeatherMap](https://openweathermap.org/api) for providing weather data.
 - [Vue.js](https://vuejs.org/) for the framework.
 
-```
 
 ### Instructions for Using the README
 
@@ -108,5 +107,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 3. **License**: If you want to include a specific license, create a `LICENSE` file or modify the license section as necessary.
 
 This `README.md` serves as a comprehensive guide to help users understand, install, and use your weather app effectively.
-```
-````
