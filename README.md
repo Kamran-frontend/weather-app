@@ -66,25 +66,6 @@ Open your browser and navigate to `http://localhost:8080` (or the port specified
 3. Switch between Celsius and Fahrenheit using the dropdown menu.
 4. View the current weather conditions and 10-day forecast displayed below.
 
-## File Structure
-
-```
-weather-app/
-├── public/
-│   ├── index.html
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── WeatherCard.vue
-│   │   ├── ForecastTile.vue
-│   ├── services/
-│   │   ├── weatherService.js
-│   ├── App.vue
-│   ├── main.js
-│   └── styles.css
-├── package.json
-└── ...
-```
 
 ## Contributing
 
